@@ -17,7 +17,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class FindElementEdge {
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
+		// March6 2025 verified that output folder contained img
 
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
