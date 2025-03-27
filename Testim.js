@@ -2,7 +2,7 @@
 import 
   public static void main(String[] args) throws IOException {
 		// march 6 335 cooy from Magician
-
+                // March 26 incoming along295
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
 		//driver.manage().window().maximize(); Jan 25 add screen shots
